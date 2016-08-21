@@ -1,6 +1,6 @@
 # medicalimageanalysis
 
-Create following folders
+Create following folders under the root folder
 
    |-flattened
    
